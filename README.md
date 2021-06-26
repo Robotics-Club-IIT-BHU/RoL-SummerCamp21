@@ -1,5 +1,5 @@
 # Robot Learning Summer Camp 21
-Welcome everyone, to the Robot Learning Specialization of the camp. We'll be starting off from the basics and then move towards the advanced topics, and we hope everyone is able to utilize this camp to fullest to know more about robot learning, and then use that to do some cool stuff.
+Welcome everyone, to the Robot Learning Specialization of the camp. We'll be starting off from the basics and then move towards the advanced topics, and we hope everyone is able to utilize this camp to the fullest to know more about robot learning, and then use that to do some cool stuff.
 
 <br>
 <p align="center">
