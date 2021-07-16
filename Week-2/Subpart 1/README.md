@@ -11,7 +11,7 @@ If you know this transition probaility matrix, then you can easily use it to pla
 **2. Off Policy vs On policy** : An on-policy agent learns the value based on its current action(a) derived from the current policy, whereas its off-policy counter part learns it based on the action(a\*) obtained from another policy.
 
 <p align="center">
-   <img src="https://github.com/Robotics-Club-IIT-BHU/RoL-SummerCamp21/blob/main/Week-2/Subpart%201/assets/5go13e.jpg" alt="Types of RL algos"></img>
+   <img src="https://github.com/Robotics-Club-IIT-BHU/RoL-SummerCamp21/blob/main/Week-2/Subpart%201/assets/types-of-algos.png" alt="Types of RL algos"></img>
 </p>
 
 ### Q-Learning
