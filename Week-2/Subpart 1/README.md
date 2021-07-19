@@ -43,5 +43,5 @@ Since we are using neural networks as approximators, and the target network is s
 * **Clipping Rewards** : Clipping large rewards and mapping them to a normalized value between +1 and -1 has often lead to faster and more stable training.
 
 <p align="center">
-   <img src="https://github.com/Terabyte17/Robot-Learning/blob/main/Week-2/Subpart%201/assets/5go13e.jpg" alt="meme"></img>
+   <img src="https://github.com/Robotics-Club-IIT-BHU/RoL-SummerCamp21/blob/main/Week-2/Subpart%201/assets/5go13e.jpg" alt="meme"></img>
  </p>
