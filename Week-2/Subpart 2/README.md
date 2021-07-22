@@ -1,4 +1,4 @@
-### Creating a custom gym environment
+### Creating a custom robot environment in gym
 
 This week's task includes creating a full fleged OpenAI gym environment, which can be directly installed as a PIP package from the terminal. OpenAI gym already has a lot of environments ranging from classic control ones to Atari games like Breakout, Pacman, Pong etc. However, you will be creating your own environment from scratch and training a robot in that using the algorithms learnt this week.
 
